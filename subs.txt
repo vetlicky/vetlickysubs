@@ -1,0 +1,2 @@
+vless://ab43909c-1aa5-479b-9020-a61465e58be2@85.192.27.148:57379?type=tcp&encryption=none&security=reality&pbk=ESJbwyYFQumE4uHUYlcn9_1-dGAONZCt0bRKVIYrORM&fp=chrome&sni=www.oracle.com&sid=212648c8c6de&spx=%2F&flow=xtls-rprx-vision#res-md76kwi1
+vless://3748d654-179e-4de4-b6c3-c7fda853d364@vetlicky.mooo.com:44038?type=tcp&encryption=none&security=reality&pbk=Zid0diPjUkfT-MCCCjmcLfBYCC2o3pcN1a-Hek-jmkw&fp=chrome&sni=google.com&sid=236b442c24&spx=%2F&flow=xtls-rprx-vision#Moist-iloepe8i
